@@ -1,2 +1,0 @@
-# config
-Profisee Configuration Example
